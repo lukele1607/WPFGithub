@@ -1,0 +1,14 @@
+C:\Workspace\Projekts\WPFGithub\bin\Debug\WPFGithub.exe.config
+C:\Workspace\Projekts\WPFGithub\bin\Debug\WPFGithub.exe
+C:\Workspace\Projekts\WPFGithub\bin\Debug\WPFGithub.pdb
+C:\Workspace\Projekts\WPFGithub\obj\Debug\WPFGithub.csprojAssemblyReference.cache
+C:\Workspace\Projekts\WPFGithub\obj\Debug\MainWindow.g.cs
+C:\Workspace\Projekts\WPFGithub\obj\Debug\App.g.cs
+C:\Workspace\Projekts\WPFGithub\obj\Debug\WPFGithub_MarkupCompile.cache
+C:\Workspace\Projekts\WPFGithub\obj\Debug\WPFGithub_MarkupCompile.lref
+C:\Workspace\Projekts\WPFGithub\obj\Debug\MainWindow.baml
+C:\Workspace\Projekts\WPFGithub\obj\Debug\WPFGithub.g.resources
+C:\Workspace\Projekts\WPFGithub\obj\Debug\WPFGithub.Properties.Resources.resources
+C:\Workspace\Projekts\WPFGithub\obj\Debug\WPFGithub.csproj.GenerateResource.cache
+C:\Workspace\Projekts\WPFGithub\obj\Debug\WPFGithub.exe
+C:\Workspace\Projekts\WPFGithub\obj\Debug\WPFGithub.pdb
